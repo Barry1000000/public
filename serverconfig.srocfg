@@ -1,11 +1,13 @@
 SROCFG1
-RR95jpZx0bLdV/NlXCQnyAvq7UhTZPwajPVRTSSk8LYgUOPvV7ACHSpj4L1PSnX23gZD4YpWhFu1QlR/fmsOCw==
-serial=15
+uqAF3lYOZW/Eg52pwMX8DZ2v/Si6o3MmsKlXPII/2WfDSsFqn7pCCa5C8r7YxVcpRQ6yPgEzH97UMWduRsDrAA==
+serial=16
 expires=4102444800
 locale=22
 port=15779
 gateway=play.silkroadmobile.online
+region=Europe|play.silkroadmobile.online|
+region=Asia|asia.silkroadmobile.online|
 download=https://egywatch.live/silkroad/
 download=https://faseelhd.com/silkroad/
-appversion=2239
+appversion=2298
 apk=https://silkroadmobile.online/SilkroadMobile.apk
